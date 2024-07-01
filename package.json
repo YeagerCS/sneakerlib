@@ -1,0 +1,18 @@
+{
+  "name": "sneakerlib",
+  "version": "1.1.3",
+  "description": "Library with functions and classes for sneaker.js",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thestablisher",
+  "license": "ISC",
+  "files": [
+    "sneaker.js",
+    "models/*",
+    "utils/*",
+    "index.d.ts"
+  ]
+}
